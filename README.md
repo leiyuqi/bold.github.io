@@ -1,0 +1,2 @@
+# bold.github.io
+blog
